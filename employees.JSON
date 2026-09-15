@@ -1,0 +1,37 @@
+[
+    {
+        "emp-name": "Ali",
+        "emp-id": "EMP001",
+        "emp-email": "ali@gmail.com",
+        "emp-dept": "IT",
+        "emp-salary": "75000"
+    },
+    {
+        "emp-name": "Ahmed",
+        "emp-id": "EMP002",
+        "emp-email": "ahmed@gmail.com",
+        "emp-dept": "HR",
+        "emp-salary": "65000"
+    },
+    {
+        "emp-name": "Hamza",
+        "emp-id": "EMP003",
+        "emp-email": "mhamza@gmail.com",
+        "emp-dept": "Management",
+        "emp-salary": "40000"
+    },
+    {
+        "emp-name": "Babar",
+        "emp-id": "EMP004",
+        "emp-email": "babar@gmail.com",
+        "emp-dept": "IT",
+        "emp-salary": "60000"
+    },
+    {
+        "emp-name": "Amir",
+        "emp-id": "EMP005",
+        "emp-email": "amir@gmail.com",
+        "emp-dept": "HR",
+        "emp-salary": "55000"
+    }
+]

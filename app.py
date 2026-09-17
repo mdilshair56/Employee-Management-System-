@@ -36,6 +36,7 @@ def view_all_employees():
     employees = load_employees()
     if not employees:
         print("No employees found.")
+        return
 
     for employee in employees:
         print(f"Name: {employee.get('emp-name')} | ID: {employee.get('emp-id')} | Email: {employee.get('emp-email')} | Department: {employee.get('emp-dept')} | Salary: {employee.get('emp-salary')}")

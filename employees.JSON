@@ -33,5 +33,12 @@
         "emp-email": "amir@gmail.com",
         "emp-dept": "HR",
         "emp-salary": "55000"
+    },
+     {
+        "emp-name": "Haider",
+        "emp-id": "EMP006",
+        "emp-email": "haider@gmail.com",
+        "emp-dept": "Admin",
+        "emp-salary": "65000"
     }
 ]

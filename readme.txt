@@ -1,1 +1,0 @@
-This is a Readme file for "Employee Management System" and this file is just created for practice purpose only!
